@@ -1,4 +1,5 @@
 # Field Notes: Teaching a Transformer to See Flowers
+https://flourishing-yeot-0caeea.netlify.app/
 
 A comparative study of *how* a Vision Transformer comes to see anything at all — not another "train a ViT, report accuracy" tutorial. Three training regimes, same encoder architecture, same 3,670-image, 5-species dataset, evaluated honestly against each other with the internals made visible rather than just a final accuracy number.
 
