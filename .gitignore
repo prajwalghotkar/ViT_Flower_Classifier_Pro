@@ -1,0 +1,5 @@
+data/flowers_split/
+checkpoints/*.pth
+outputs/*.png
+__pycache__/
+*.pyc
